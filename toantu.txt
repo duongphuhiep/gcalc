@@ -1,0 +1,122 @@
+THONG KE CAC TOAN TU TRONG CHUONG TRINH GCALC
+
+
+Cac phep tinh thong thuong
+**************************
+'+'        : [4/2/1984]+10; 2:3+5:7; [xyz]+[abc]; 
+'-'        : cdate-[4/2/1984]; 3:5-1:2
+'*'	   : 3:2*1:2
+'/'	   : 1/5
+'^'	   : 3^5; 2^(1/2); 
+'!'	   : tinh giai thua VD: 3!; 6!
+'div'	   : Phep chia lay phan nguyen VD: 10 div 3
+'mod'	   : phep chia lay du VD: 10 mod 3
+
+Cac ham luy thua va loga
+************************
+'sqrt'     : tinh can bac 2 mot so VD: sqrt(64)
+'sqr'	   : tinh binh phuong mot so VD: sqr(8)
+'exp'	   : tinh luy thua cua e VD: exp(3)-e^3
+'ln'	   : ln(e^2)
+log'	   : log(10^8)
+'lg'	   : lg(2,2^8)
+
+Cac ham luong giac (voi don vi goc la radian)
+******************
+'sin'	   : sin(pi/3)
+'cos'	   : cos(pi/3)
+'tg'	   : tg(pi/6)	
+'cotg'	   : cotg(pi/6)
+'arcsin'   : arcsin(0.5)
+'arccos'   : arccos(0.5)
+'arctg'    : arctg(1)
+'arccotg'  : arccotg(1)
+'sinh'	   : 
+'cosh'	   : 
+'tgh'	   : 
+'cotgh'	   : 
+'arcsinh'  : 
+'arccosh'  : 
+'arctgh'   : 
+'arccotgh' : 
+
+Cac ham doi qua lai giua cac don vi goc (degree, radian, gradian, cycle)
+***************************************
+'dtor'	   : dtor(pi/2)
+'rtod'	   : rtod(180)	
+'dtog'
+'gtod'
+'dtoc'
+'ctod'
+'rtog'
+'gtor'
+'rtoc'
+'ctor'
+'gtoc'
+'ctog'
+
+Cac ham lam tron so
+*******************
+'trunc'	   : trunc(10)
+'ceiling'  : ceilling(10.2)
+'floor'	   : floor(10.8)
+'round'	   : round(10.6)
+
+Cac ham toan hoc mo rong
+************************
+'abs'	   : Ham lay tri tuyet doi VD: abs(-1.5); abs(-2)
+'ucln'	   : Tim uoc chung lon nhat cua 2 so nguyen VD: ucln(27,81)
+'bcnn'	   : Tim boi chung nho nhat cua 2 so nguyen VD: bcnn(81,27)
+'crn'	   : VD: crn(3,10) Tim to hop chap 3 cua 10
+'arn'	   : VD: arn(4,10) Tim chinh hop chap 4 cua 10
+'ptnt'	   : Phan tich mot so ra thua so nguyen to VD: ptnt(2700)
+'random'   : Lay ngau nhien 1 so nguyen: VD random(2,10) lay ngau nhien so nguyen trong khoang [2..10]
+'above'	   : Chon so lon hon trong 2 so: VD: above(10.5,10.6)
+'below'	   : Chon so be hon trong 2 so: VD: above(10.5,10.6) 
+'if'	   : if(btL,x1,x2) Neu btL dung thi lay x1, neu khong lay x2 VD: if(3>=2,6,7); if(T->F,11,10)
+'tonum'	   : Bien doi toan hang ve kieu so (Neu co the) VD: tonum([4/2/1984]); tonum([12.5]); tonum([Sunday])
+
+Cac ham chuyen doi cac co so khac ve co so 10
+*********************************************
+'bin'	   : Chuyen co so 2 ve co so 10 VD: bin([1000110])
+'hex'	   : Chuyen co so 16 ve co so 10 VD: hex([FA00])
+'oct'	   : Chuyen co so 8 ve co so 10 VD: oct([710])
+'base'	   : Chuyen co so bat ki (2->36) ve co so 10 VD: base(2,[100010]) base(3,[1210])
+
+Cac phep tinh Logic
+*******************
+'not'	   : not T or F 
+'and'	   : T and F; 100 and 10
+'or'	   : F or F; 100 or 10
+'xor'	   : T xor F; 100 xor 10 
+'->'	   : T->F; 100->10
+'<->'	   : T<->F; 100<->10
+'>'	   : 3>4 and 6>2
+'<'	   : 3<4 or 6<2
+'>='	   : 3>=3->3<6
+'<='	   : 3<=2<->2<=2
+'='	   : 4=2; 3=3
+  
+Cac ham ve thoi gian
+********************
+'dow'       : Tim thu trong tuan VD: dow([4/2/1984])
+'eraday'    : VD: eraday(730000) tim ngay thu 730000 ke tu ngay 1/1/0000 la ngay nao
+'countday'  : Dem xem bao nhieu ngay troi qua ke tu ngay 1/1/0000 VD: countday([2/9/1999])
+'sec'	    : VD: sec(100) doi 100 giay ra kieu gio -> [0:1:40]; sec(3610) cho ket qua la [1:0:10]
+'min'	    : VD: min(100) cho ket qua la [1:40:0]
+'hour'	    :   
+'todate'    : Lay phan date cua toan hang kieu ngay gio VD(totime[cdatetime]); totime([4/2/1984 3:2:3])
+'totime'    : Lay phan time cua toan hang kieu ngay gio VD(totime[cdatetime]); totime([4/2/1984 3:2:3])
+'todatetime':
+
+'can_y'	    : tim can cua nam VD: can_y(2003); can_y([4/2/1984])
+'chi_y'	    : tim chi cua nam VD: chi_y(2003); chi_y([4/2/1984])
+'canchi_y'  : canchi_y(2003)
+'can_m'	    : tim can cua thang VD: can_m([4/2/1984])
+'chi_m'	    : tim chi cua thang VD: chi_m([4/2/1984])
+'canchi_m'  : canchi_m([20/11/2002])
+
+
+  
+
+

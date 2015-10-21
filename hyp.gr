@@ -1,0 +1,49 @@
+LIST OF GRAPHICS'S GCALC
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+4 graphics in this file.
+
+Row: 1
+Visible: True
+Color: 255
+Equation: y=sinh(x)
+Range: 
+Name: 
+m = 
+Delta m = 
+S: 
+State: 0
+------------------------
+Row: 2
+Visible: True
+Color: 65280
+Equation: y=cosh(x)
+Range: 
+Name: 
+m = 
+Delta m = 
+S: 
+State: 0
+------------------------
+Row: 3
+Visible: True
+Color: 65535
+Equation: y=tgh(x)
+Range: 
+Name: 
+m = 
+Delta m = 
+S: 
+State: 0
+------------------------
+Row: 4
+Visible: True
+Color: 16711680
+Equation: y=cotgh(x)
+Range: 
+Name: 
+m = 
+Delta m = 
+S: 
+State: 0
+------------------------

@@ -1,0 +1,18 @@
+:Base GCalc
+:Title General Calculator
+1 Giíi thiÖu
+2 GCalc lµ g×?=gioi_thieu@gioi_thieu.rtf
+2 T¸c gi¶=tac_gia
+1 C¸c kh¸i niÖm c¬ b¶n vµ c¸c quy ­íc
+2 D÷ liÖu kiÓu sè vµ kiÓu chuçi=kieudl1
+2 D÷ liÖu kiÓu ngµy/giê=kieudl2
+2 Kh¸i niÖm hµm, to¸n tö, to¸n h¹ng, tham sè=khainiem1
+1 C¸c phĞp tİnh vµ c¸c hµm
+2 Tİnh to¸ víi d÷ liÖu kiÓu sè
+3 C¸c phĞp tİnh vµ c¸c hµm to¸n häc th«ng th­êng=tinhnum1
+3 Lµm trßn, lÊy trÇn, sµn mét sè thùc=tinhnum3
+3 Sö dông c¸c phĞp to¸n Logic trong d÷ liÖu kiÓu sè=tinhnum3
+2 Tİnh to¸n víi kiÓu d÷ liÖu Logic
+3 C¸c phĞp Logic th«ng th­êng=tinhlogic1
+3 Hµm if=tinhlogic2
+2 Tİnh to¸n víi d÷ liÖu kiÓu ngµy/giê

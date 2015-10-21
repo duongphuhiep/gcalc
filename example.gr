@@ -1,0 +1,71 @@
+LIST OF GRAPHICS'S GCALC
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+6 graphics in this file.
+
+Row: 1
+Visible: True
+Color: 65280
+Equation: y=m/x
+Range: sd
+Name: G1
+m = 2
+Delta m = 
+S: Kh«ng tÝnh ®­îc kho¶ng vÏ, lÊy mÆc ®Þnh lµ: ©m v« cïng .. d­¬ng v« cïng!
+State: 1
+------------------------
+Row: 2
+Visible: True
+Color: 255
+Equation: y=sin(x*m)*sqrt(-1)
+Range: 
+Name: 
+m = 
+Delta m = 
+S: Tham sè cña hµm "sqrt" ©m!
+State: 2
+------------------------
+Row: 3
+Visible: False
+Color: 0
+Equation: y=lg(2,x)
+Range: 
+Name: 
+m = 
+Delta m = 
+S: 
+State: 3
+------------------------
+Row: 4
+Visible: True
+Color: 16711680
+Equation: y=2*m^x
+Range: 
+Name: G4
+m = 2
+Delta m = 
+S: 
+State: 0
+------------------------
+Row: 5
+Visible: True
+Color: 16744576
+Equation: y=-2*x^2+-3*x-5
+Range: 
+Name: G5
+m = 
+Delta m = 
+S: 
+State: 0
+------------------------
+Row: 6
+Visible: True
+Color: 8421504
+Equation: y=-2*x^3+-3*x-5
+Range: 
+Name: G6
+m = 
+Delta m = 
+S: 
+State: 0
+------------------------

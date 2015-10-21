@@ -1,0 +1,8 @@
+[OPTIONS]
+LCID=0x409 0x0 0x0 ; English (United States)
+REPORT=Yes
+DEFFONT=MS Sans Serif,8,0
+HLP=GCalc.hlp
+
+[FILES]
+gioi_thieu.rtf

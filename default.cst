@@ -1,0 +1,59 @@
+LIST OF CONSTANTS'S GCALC
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+9 records in this File.
+
+Row: 1
+State: Enable
+Name: pi
+Content: 3.14159265358979
+Note: TÝnh chu vi vµ diÖn tÝch h×nh trßn: C=2*pi*r; S=pi*r^2
+-------------------------
+Row: 2
+State: Enable
+Name: e
+Content: 2.71828182845905
+Note: e^n=exp(n); e=lim(1+1/n)^n (n->v« cïng)
+-------------------------
+Row: 3
+State: Disable
+Name: K
+Content: 273
+Note: §æi nhiÖt ®é:  ®é_K=273+®é_C;  ®é_F=1.8*®é_C+32
+-------------------------
+Row: 4
+State: Enable
+Name: C
+Content: 299792.5
+Note: Tèc ®é ¸nh s¸ng trong ch©n kh«ng
+-------------------------
+Row: 5
+State: Enable
+Name: N
+Content: 6.02252E23
+Note: Sè Avogadro: Sè ph©n tö trong 1 mol chÊt
+-------------------------
+Row: 6
+State: Enable
+Name: h
+Content: 6.6256E-27
+Note: H»ng sè Plank
+-------------------------
+Row: 7
+State: Enable
+Name: g
+Content: 9.8067
+Note: Gia tèc träng tr­êng
+-------------------------
+Row: 8
+State: Disable
+Name: TB
+Content: [N¨m nay lµ n¨m ]
+Note: X©u kÝ tù th­êng ®Ó th«ng b¸o can chi cña n¨m, VD: TB+(canchi_y(cdate))
+-------------------------
+Row: 9
+State: Disable
+Name: NS
+Content: [4/2/1984]
+Note: Ngµy sinh cña t¸c gi¶; tuæi cña t¸c gi¶ lµ (cdate-NS)/365
+-------------------------
