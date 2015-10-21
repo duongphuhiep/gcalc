@@ -1,6 +1,6 @@
 # General Calculator
 
-[about](/Help/screenshoot/about.png)
+[about](https://raw.githubusercontent.com/duongphuhiep/gcalc/master/Help/screenshoot/about.png)
 
 One of my old project since my last year high school on summer 2012. An advance calculator tailored for Vietnamese High School Students to prepare for University Math exams:
 - Graphs drawer
@@ -11,17 +11,17 @@ One of my old project since my last year high school on summer 2012. An advance 
 
 Developed with Borland Delphi 7 (turn to Embarcadero Delphi on 2015), ~7000 lines of codes (~300 working hours)
 
-The parser convert expression into the [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation), then evaluate the expression over 87 built-in functions and operators. See [help.pdf in Vietnamese](/Help/help.pdf). 
+The parser convert expression into the [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation), then evaluate the expression over 87 built-in functions and operators. See [help.pdf in Vietnamese](https://raw.githubusercontent.com/duongphuhiep/gcalc/master/Helphttps://raw.githubusercontent.com/duongphuhiep/gcalc/master/Help.pdf). 
 
 Unfortunately, I have no time to translate or maintance this projects. But it is still fully functional on Windows 7 (since 12 years).
 
 # Installation
 
 I also published the [Relase pack](/Releases). 
-* [Download](/Releases/GCalc.zip) 
+* [Download](https://raw.githubusercontent.com/duongphuhiep/gcalc/master/Releases/GCalc.zip) 
 * unzip 
 * run `GCalc.exe`
-* read [Help (in Vietnamese)](/Help/help.pdf) 
+* read [Help (in Vietnamese)](https://raw.githubusercontent.com/duongphuhiep/gcalc/master/Helphttps://raw.githubusercontent.com/duongphuhiep/gcalc/master/Help.pdf) 
 
 and you're ready to go..
 
@@ -30,28 +30,28 @@ and you're ready to go..
 Here is some screenshoot (some Vietnamese text is messing on Windows 7, but it doesn't matter)
 
 Main calculator
-[home](/Help/screenshoot/home.png)
+[home](https://raw.githubusercontent.com/duongphuhiep/gcalc/master/Help/screenshoot/home.png)
 
 Graph
-[graph](/Help/screenshoot/graph.png)
+[graph](https://raw.githubusercontent.com/duongphuhiep/gcalc/master/Help/screenshoot/graph.png)
 
 Matrix
-[matrix](/Help/screenshoot/matrix.png)
+[matrix](https://raw.githubusercontent.com/duongphuhiep/gcalc/master/Help/screenshoot/matrix.png)
 
 Solve basic equation
-[ptb2](/Help/screenshoot/ptb2.png)
-[ptb3](/Help/screenshoot/ptb3.png)
+[ptb2](https://raw.githubusercontent.com/duongphuhiep/gcalc/master/Help/screenshoot/ptb2.png)
+[ptb3](https://raw.githubusercontent.com/duongphuhiep/gcalc/master/Help/screenshoot/ptb3.png)
 
 Solve basic System equation
-[ptb2](/Help/screenshoot/hpt2.png)
-[ptb3](/Help/screenshoot/hpt3.png)
+[ptb2](https://raw.githubusercontent.com/duongphuhiep/gcalc/master/Help/screenshoot/hpt2.png)
+[ptb3](https://raw.githubusercontent.com/duongphuhiep/gcalc/master/Help/screenshoot/hpt3.png)
 
 Solve any `f(x)=0` or `x=f(x)` equation
-[](/Help/screenshoot/tngd1.png)
-[](/Help/screenshoot/tngd2.png)
+[](https://raw.githubusercontent.com/duongphuhiep/gcalc/master/Help/screenshoot/tngd1.png)
+[](https://raw.githubusercontent.com/duongphuhiep/gcalc/master/Help/screenshoot/tngd2.png)
 
 Find fraction form of any rational number
-[](/Help/screenshoot/fraction.png)
+[](https://raw.githubusercontent.com/duongphuhiep/gcalc/master/Help/screenshoot/fraction.png)
 
 Define constants
-[](/Help/screenshoot/const.png)
+[](https://raw.githubusercontent.com/duongphuhiep/gcalc/master/Help/screenshoot/const.png)
