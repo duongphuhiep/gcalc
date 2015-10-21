@@ -29,29 +29,29 @@ and you're ready to go..
 
 Here is some screenshoot (some Vietnamese text is messing on Windows 7, but it doesn't matter)
 
-Main calculator
+## Main calculator
 ![home](/Help/screenshoot/home.png)
 
-Graph
+## Graph
 ![graph](/Help/screenshoot/graph.png)
 
-Matrix
+## Matrix
 ![matrix](/Help/screenshoot/matrix.png)
 
-Solve basic equation
+## Solve basic equation
 ![ptb2](/Help/screenshoot/ptb2.png)
 ![ptb3](/Help/screenshoot/ptb3.png)
 
-Solve basic System equation
+## Solve basic System equation
 ![ptb2](/Help/screenshoot/hpt2.png)
 ![ptb3](/Help/screenshoot/hpt3.png)
 
-Solve any `f(x)=0` or `x=f(x)` equation
+## Solve any `f(x)=0` or `x=f(x)` equation
 ![](/Help/screenshoot/tngd1.png)
 ![](/Help/screenshoot/tngd2.png)
 
-Find fraction form of any rational number
+## Find fraction form of any rational number
 ![](/Help/screenshoot/fraction.png)
 
-Define constants
+## Define constants
 ![](/Help/screenshoot/const.png)
