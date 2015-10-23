@@ -30,7 +30,7 @@ and you're ready to go..
 Here is some screenshoot (some Vietnamese text is messing on Windows 7, but it doesn't matter)
 
 ## Main calculator
-![home](/Help/screenshoot/home.png)
+![home](https://cloud.githubusercontent.com/assets/1638594/10705665/d931021c-79df-11e5-9849-69a88e6a6f1a.png)
 
 ## Graph
 ![graph](/Help/screenshoot/graph.png)
