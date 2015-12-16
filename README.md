@@ -2,7 +2,7 @@
 
 ![about](/Help/screenshoot/about.png)
 
-One of my old project since my last year high school on summer 2012. An advance calculator tailored for Vietnamese High School Students to prepare for University Math exams:
+One of my old project since my last year high school on summer 2002. An advance calculator tailored for Vietnamese High School Students to prepare for University Math exams:
 - Graphs drawer
 - Matrix calculator
 - Solve any `f(x)=0` equation
